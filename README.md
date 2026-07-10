@@ -1,4 +1,5 @@
-# 🩺 HealthPulse AI  
+# 🩺 HealthPulse AI 
+Predict Earlier. Act Faster. Save Lives.
 ## An Intelligent Public Health Early-Warning System for ASEAN
 
 ![SDG 3](https://img.shields.io/badge/SDG-3%20Good%20Health%20%26%20Well--Being-green)
