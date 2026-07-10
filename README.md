@@ -1,4 +1,4 @@
-# 🩺 HealthPulse AI 
+# 🩺🥇VitaGuard AI
 Predict Earlier. Act Faster. Save Lives.
 ## An Intelligent Public Health Early-Warning System for ASEAN
 
@@ -16,9 +16,9 @@ Despite improvements in healthcare delivery, many communities still face prevent
 
 Traditional public health systems often respond after problems have already escalated.
 
-**HealthPulse AI changes this approach.**
+**🥇VitaGuard AI changes this approach.**
 
-HealthPulse AI is an AI-powered public health intelligence platform that helps identify health vulnerabilities early, predict future risk levels, and recommend targeted interventions before health challenges become crises.
+🥇 VitaGuard AI is an AI-powered public health intelligence platform that helps identify health vulnerabilities early, predict future risk levels, and recommend targeted interventions before health challenges become crises.
 
 
 ---
@@ -436,13 +436,13 @@ to build healthier and more resilient communities.
 ---
 
 
-# 🩺 HealthPulse AI
+# 🩺🥇VitaGuard AI
 
 ### Predict Earlier. Act Faster. Save Lives.
 
 
 
-The final solution was deployed as an interactive Streamlit application called HealthPulse AI. 
+The final solution was deployed as an interactive Streamlit application called 🥇 VitaGuard AI. 
 
 The app allows users to explore health risk trends, compare health system readiness, identify emergency-priority countries, and generate next-year risk predictions. 
 
