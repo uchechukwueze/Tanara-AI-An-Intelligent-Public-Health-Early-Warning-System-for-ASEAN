@@ -1,5 +1,5 @@
 # ============================================================
-# HealthPulse AI FastAPI
+# 🥇Tanara AI FastAPI
 # ASEAN Public Health Early-Warning API
 # ============================================================
 
@@ -69,10 +69,10 @@ async def lifespan(app: FastAPI):
 
     except Exception as error:
         raise RuntimeError(
-            f"🥇VitaGuard model could not be loaded: {error}"
+            f"🥇Tanara AI model could not be loaded: {error}"
         ) from error
 
-    print("🥇VitaGuard AI:  model loaded successfully.")
+    print("🥇Tanara AI:  model loaded successfully.")
 
     yield
 
@@ -86,7 +86,7 @@ async def lifespan(app: FastAPI):
 # ============================================================
 
 app = FastAPI(
-    title="🥇VitaGuard AI API",
+    title="🥇Tanara AI API",
     description=(
         "An API for predicting the following year's public-health "
         "risk level across ASEAN countries using mortality, disease, "
