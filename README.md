@@ -295,6 +295,7 @@ Streamlit Decision Dashboard
 ### Deployment
 
 - Streamlit
+- AWS(EC2)
 
 
 ### Model Persistence
